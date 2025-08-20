@@ -6,5 +6,5 @@ My most recent project, Punch It, a fullstack social application for regional/am
 
 - 🔭 I’m currently working on: a personalized version of Punch It for an actual gym to use.
 - 📫 How to reach me: devintanielu@gmail.com
-- ⚡ Fun fact: I have been training Muay Thai for nearly 4 years now. I have even gone to Thailand multiple times to train in the art's motherland, straight from the source.
+- ⚡ Fun fact: I have been training Muay Thai for nearly 4 years now. I have competed, judged and even refereed fights. I even take yearly trips to train in Thailand.
 
